@@ -21,7 +21,7 @@
     font-style: italic;
 }
 
-.nav-bar {
+/*.nav-bar {
     list-style-type: none;
     overflow: hidden;
     background-color: aqua;
@@ -31,7 +31,7 @@
 
 .nav-bar li {
     float: left;
-}
+}*/
 
 li a {
     display: block;
